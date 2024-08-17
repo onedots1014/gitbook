@@ -1,3 +1,3 @@
-## Self Note book
-[vim](vim/SUMMARY.md)
+# Self Note book
 
+[vim](vim/summary.md)
