@@ -1,17 +1,2 @@
-# KeyMap
-
-NERD tree
-
-tn: get root
-
-to: NERDTreeFocus
-
-tm:NERDTreeMirror
-
-tt: NERDTreeToggle
-
-
-
-Comment:
-
-gcc
+# Vim Gudie
+This doc that introduce how to config and use vim
