@@ -1,3 +1,3 @@
 # Self Note book
 
-[vim](vim/summary.md)
+This notebook is used to record some knowledge in the learning process. 
