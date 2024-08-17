@@ -1,3 +1,4 @@
 # Table of contents
 
-* [如何配置GitHub和Gitlab SSH](README.md)
+* [About this note](README.md)
+* [如何配置GitHub和Gitlab SSH](<README (1).md>)
